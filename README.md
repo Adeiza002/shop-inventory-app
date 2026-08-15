@@ -32,13 +32,13 @@ Many small shops in Nigeria mismanage stock — running out of fast-selling item
 
 ## Project Structure
 
-\`\`\`
+```
 shop-inventory-app/
 ├── index.html    → Page structure (dashboard, table, add/edit form)
 ├── style.css     → Styling
 ├── script.js     → App logic (CRUD, alerts, search/filter, calculations)
 └── README.md     → Project documentation
-\`\`\`
+```
 
 ## How It Works
 
