@@ -97,12 +97,13 @@ header h1 {
 .table-wrapper {
   background: white;
   border-radius: 10px;
-  overflow: hidden;
+  overflow-x: auto;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
 }
 
 table {
   width: 100%;
+  min-width: 650px;
   border-collapse: collapse;
 }
 
